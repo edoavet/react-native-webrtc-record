@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ando/Downloads/TestProject/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/ando/.gradle/caches/transforms-2/files-2.1/0bcfb4541383d5418bc3bc74bf3a96d1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ando/Downloads/TestProject/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ando/.gradle/caches/transforms-2/files-2.1/0bcfb4541383d5418bc3bc74bf3a96d1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ando/Downloads/TestProject/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ando/.gradle/caches/transforms-2/files-2.1/0bcfb4541383d5418bc3bc74bf3a96d1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ando/Downloads/TestProject/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ando/.gradle/caches/transforms-2/files-2.1/0bcfb4541383d5418bc3bc74bf3a96d1/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
